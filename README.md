@@ -11,7 +11,7 @@ This project analyzes customer shopping behavior using a dataset of individual p
 - `sql/`
   - `customer_queries.sql`: SQL queries for extracting customer behavior insights.
 - `power bi/`
--   - customer_behaviour_dashboard.pbix  
+    - customer_behaviour_dashboard.pbix  
       Main Power BI dashboard file.
   - `screenshots/`: Visual artifacts and dashboard screenshots created for reporting.
 - `requirements.txt`: Python dependencies used to run the notebook and analysis.
