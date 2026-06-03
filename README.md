@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Customer Behavior Analysis
 
 ## Project Overview
 This project analyzes customer shopping behavior using a dataset of individual purchases. It is built around exploratory data analysis and insight generation from purchase, demographic, and promotional data.
